@@ -1,0 +1,51 @@
+#input{
+    width: 240px;
+    height: 35px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+#input2{
+    width: 240px;
+    height: 35px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+body{
+    background-color: gray;
+}
+
+#j1{
+    background: whitesmoke;
+    height: 20%;
+
+}
+#j1 h1{
+    color: red;
+}
+
+#j2{
+    background: whitesmoke;
+    height: 20%;
+
+}
+#j2 h1{
+    color: red;
+}
+
+.titulo{
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    font-size:67px;
+    text-align: center;
+}
+
+#logar{
+    width: 15%;
+    height: 5%;
+    color:black;
+    background-color: green;
+    font-size: 30px;
+}
